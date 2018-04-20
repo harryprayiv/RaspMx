@@ -1,4 +1,4 @@
 RaspMx
 ======
 
-home-made low-coast dmx control solution
+home-made low-cost dmx control solution
